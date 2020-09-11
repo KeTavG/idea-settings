@@ -4,10 +4,11 @@
     <option name="applicationDetailsCustom" value="Life is Lava!" />
     <option name="applicationState" value="CUSTOM" />
     <option name="applicationStateCustom" value="I'm Shizik, take me home~" />
-    <option name="applicationIconLargeText" value="NONE" />
     <option name="applicationIconSmall" value="APPLICATION" />
-    <option name="applicationIconSmallTextCustom" value="sdsa" />
     <option name="applicationTime" value="APPLICATION_TOTAL" />
+    <option name="projectIconSmall" value="APPLICATION" />
+    <option name="projectTime" value="APPLICATION_TOTAL" />
+    <option name="fileTime" value="APPLICATION_TOTAL" />
     <option name="applicationLastUpdateNotification" value="1.5.0" />
   </component>
 </application>
